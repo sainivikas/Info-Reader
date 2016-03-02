@@ -13,7 +13,7 @@ Press B for go back on home.html.
 
 
 
-Issue,
+Issue:
 =======
 Not fully keyboard-centric for Firefox currently.
 Will fix in later release.
